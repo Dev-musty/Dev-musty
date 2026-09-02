@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on -<br>🤝 I’m looking to collaborate on - impact and education driven web projects.<br>🧠 I’m currently learning - ReactJS and scalable app design<br>💬 Ask me about- tech with creativity.<br>⚡ Fun fact- My drive runs on curiosity.
+🛠️ I'm currently working on — AI-integrated backend systems: RAG pipelines, vector databases, and LLM-powered features
+🤝 I'm looking to collaborate on — AI agents, developer tooling, and impact-driven products
+📚 I'm currently learning — scalable system design and agentic workflows
+💬 Ask me about — backend architecture, RAG, LLM integrations, or NestJS
+⚡ Fun fact — my drive runs on curiosity
 
 
 ## 🌐 Socials:
